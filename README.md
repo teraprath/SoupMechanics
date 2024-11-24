@@ -3,5 +3,6 @@
 
 ## Features
 - Simple & Lightweight
+- Fully customizable
 - Eating soups will restore health
 - New Mushroom Stew Recipes: Cocoa Beans & Cactus
