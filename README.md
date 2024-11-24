@@ -2,7 +2,7 @@
  Restore Health using Soups (Spigot 1.21+)
 
 ## Features
-- Simple & Lightweight
+- Simple & lightweight
 - Fully customizable
 - Eating soups will restore health
-- New Mushroom Stew Recipes: Cocoa Beans & Cactus
+- Craft soups using cocoa beans & cactus
