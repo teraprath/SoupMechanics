@@ -5,4 +5,4 @@
 - Simple & lightweight
 - Fully customizable
 - Eating soups will restore health
-- Craft soups using cocoa beans & cactus
+- Craft mushroom stews using cocoa beans & cactus
