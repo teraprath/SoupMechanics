@@ -1,0 +1,8 @@
+check-for-updates: true
+soup:
+  restore-health-amount: 7
+recipes:
+  cocoa-beans: true
+  cactus: true
+vanilla-hunger-bar:
+  disabled: true
